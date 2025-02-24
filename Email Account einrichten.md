@@ -4,4 +4,4 @@ PW: Vn7450 (Vorname, nachname)
 Posteingang und Ausgangsserver:
 IP: 172.20.216.3
 
-Alle Ordner öffnen und durch
+Alle Ordner/Kalender usw öffnen und durchgehen
