@@ -5,8 +5,12 @@
 		- Benutzer kopieren
 			- PW: Start001
 2. Nutzer einrichten
-		Nutzer auf einem Rechner anmelden
-		Laufwerk K einbinden
+		1. Nutzer auf einem Rechner anmelden
+		2. Laufwerk K einbinden
+			Im Ordner Rechtsklick auf Netzwerke: Netzlaufwerk verbinden
+			1. //s1/Klinik
+			2. 
+		
 
 
 ![[Pasted image 20250224102340.png]]
