@@ -11,5 +11,9 @@ Anwesende Gäste nach Zimmer
 ![[Pasted image 20250827120320.png]]
 Zimmernummer wird doppelt angezeigt
 
-Im Anwesende Patienten wird patient doppelt angezeigt?
+Im Anwesende Patienten wird Patient doppelt angezeigt?
 ![[Pasted image 20250827120519.png]]
+
+Wird auch In der Liste nach Name sortiert doppelt angezeigt
+
+Müller, Angela Zimmer 112
