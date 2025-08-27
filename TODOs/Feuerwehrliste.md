@@ -17,3 +17,6 @@ Im Anwesende Patienten wird Patient doppelt angezeigt?
 Wird auch In der Liste nach Name sortiert doppelt angezeigt
 
 Müller, Angela Zimmer 112
+Thater, Angela Zimmer 201 21920
+Hofmann, Eleonore 343 - 22655
+Freund, Siegrid 338 - 22510
