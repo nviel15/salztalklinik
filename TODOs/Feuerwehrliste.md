@@ -32,6 +32,10 @@ Feuerwehrliste
 Die Liste "Feuerwehrliste" ist aktuell fehlerbehaftet und zeigt anstelle von Haus und Etage einen Code, der für Menschen nicht lesbar ist. 
 
 Patienten, die das Zimmer wechseln müssen werden falsch sortiert angezeigt.
-Z.B. EIne P
+Beispiel:
+Eine Patientin ist vom 20.08.25 bis 9.9.2025 im Zimmer 318 und diese Belegung ist "aktiv". Jedoch muss sie am 09.09.2025 bis zum 16.09.2025 in das Zimmer 123 ziehen, dies ist bereits eingetragen aber nicht aktiv. Dennoch erscheint sie in der Sortierung in der Feuerwehrliste in der Etage 1.
+
+![[Pasted image 20250828102555.png]]
+
 
 Die Salztalklinik benötigt ein Hilfsmittel Feld für Ihre Patienten
