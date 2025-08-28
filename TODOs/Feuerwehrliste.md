@@ -26,6 +26,10 @@ Ich würde die Änderungswünsche aus Dokumentationsgründen einmal zusammenfass
 Damit die Rettungskräfte im Notfall den Patienten effektiv helfen kann benötigt sie die Information ob der jeweilige anwesende Patient ein Hilfsmittel benötigt. 
 In der Liste "Feuerwehrliste" ist dafür zwar eine Spalte vorgesehen, aber bisher wurde dort kein Wert eingetragen.
 In der Liste "anwesende Patienten nach Zimmer" muss diese Spalte noch hinzugefügt werden.
+Beide Listen haben Fehler in ihren angezeigten Daten welche behoben werden müssen. Diese liste ich im folgenden im Detail auf:
+
+Feuerwehrliste
+Die Liste "Feuerwehrliste" ist aktuell fehlerbehaftet und zeigt anstelle von Haus und Etage einen Code, der für Menschen nicht lesbar ist. 
 
 
 Die Salztalklinik benötigt ein Hilfsmittel Feld für Ihre Patienten
