@@ -20,3 +20,12 @@ Müller, Angela Zimmer 112
 Thater, Angela Zimmer 201 21920
 Hofmann, Eleonore 343 - 22655
 Freund, Siegrid 338 - 22510
+
+Ich würde die Änderungswünsche aus Dokumentationsgründen einmal zusammenfassen:
+
+Damit die Rettungskräfte im Notfall den Patienten effektiv helfen kann benötigt sie die Information ob der jeweilige anwesende Patient ein Hilfsmittel benötigt. 
+In der Liste "Feuerwehrliste" ist dafür zwar eine Spalte vorgesehen, aber bisher wurde dort kein Wert eingetragen.
+In der Liste "anwesende Patienten nach Zimmer" muss diese Spalte noch hinzugefügt werden.
+
+
+Die Salztalklinik benötigt ein Hilfsmittel Feld für Ihre Patienten
