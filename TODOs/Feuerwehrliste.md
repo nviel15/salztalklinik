@@ -31,5 +31,7 @@ Beide Listen haben Fehler in ihren angezeigten Daten welche behoben werden müss
 Feuerwehrliste
 Die Liste "Feuerwehrliste" ist aktuell fehlerbehaftet und zeigt anstelle von Haus und Etage einen Code, der für Menschen nicht lesbar ist. 
 
+Patienten, die das Zimmer wechseln müssen werden falsch sortiert angezeigt.
+Z.B. EIne P
 
 Die Salztalklinik benötigt ein Hilfsmittel Feld für Ihre Patienten
